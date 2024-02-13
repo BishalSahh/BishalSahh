@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar Sah❣️ </h1>
-<h3 align="center" >it's me VK from Madesh pardesh(Terai)-Nepal. I'm inerested in coding . But Currently i'am NOOB and it's very difficult to understan logic of coding for me.But i'am trying to my best to lern, And I believe that the day will come. </h3>
+<h3 align="center" >it's me VK from Madesh pardesh(Terai)-Nepal. I'm interested in coding . But Currently i'am NOOB and it's very difficult to understand the logic of code for me. But i'am trying to my best to learn, And I believe that the day will come. </h3>
 <img  align="right" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe_w200.webp" alt="coding img" width="400">
 
 
